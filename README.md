@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alhasiby
-- 👀 I’m interested in networking engineer
-- 🌱 I’m currently learning server administrator
-- 💞️ I’m looking to collaborate on IT Infrastructure
+- 👀 I’m interested in software engineer
+- 🌱 I’m currently learning frontend web development
+- 💞️ I’m looking to collaborate on IT Freelancer
 - 📫 How to reach me ...
 
 <!---
